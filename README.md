@@ -144,5 +144,5 @@ Se algum método não respeitar o enunciado (nome, tipo de retorno, parâmetros 
 - Encapsulamento (`private`, `getters`)
 - Validação de parâmetros
 - Manipulação de objetos entre si (`this`, `outroObjeto`)
-- Tipos wrappers: `Integer`, `Double`, `Boolean`)
+- Tipos wrappers: (`Integer`, `Double`, `Boolean`)
 - Nomenclatura exata
